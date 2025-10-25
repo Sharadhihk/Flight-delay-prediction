@@ -9,4 +9,5 @@ matplotlib,
 seaborn,
 streamlit,
 pip install openpyxl.
+Kindly install the data file in the same directory as the .py code
 This code can be run in VS code, google collab etc
