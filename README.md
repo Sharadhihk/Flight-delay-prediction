@@ -9,3 +9,4 @@ matplotlib,
 seaborn,
 streamlit,
 pip install openpyxl.
+This code can be run in VS code, google collab etc
